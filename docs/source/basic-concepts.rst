@@ -24,7 +24,7 @@ Model vs. Diagram
 
 Many users are confusing the difference between *diagramming or drawing* tool such as Microsoft Visio and *modeling* tools such StarUML or Rational Software Architect. First you need to understand a diagram is not a model.
 
-*Model* or *software model* is a description of any aspect of a software system such as structure, behavior, requirement, and so on. Software model can be represented in textual, mathmatical or visual. *Model element* is building block constitutes a software model.
+*Model* or *software model* is a description of any aspect of a software system such as structure, behavior, requirement, and so on. Software model can be represented in textual, mathematical or visual. *Model element* is building block constitutes a software model.
 
 *Diagram* is a visual geometric symbolic representation of a software model. A software model can be represented in one or more diagrams with different aspects. For example, a diagram can focus on class hierarchical structure but another diagram can focus on interaction between objects. Diagram consists of *view elements*, which is a visual representation of a *model element*.
 
